@@ -6,7 +6,7 @@
 ##Languages and Patterns Covered
 
 
-&nbsp; | Factory | Singleton
+&nbsp; | Proxy | Singleton
 --- | --- | ---
-*PHP* | **&#x2717;** | **&#10004;**
-*JS* | **&#x2717;** | **&#10004;**
+*PHP* | **&#10004;** | **&#10004;**
+*JS* | **&#x2717;** | **&#x2717;**
